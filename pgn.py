@@ -45,7 +45,7 @@ class PGNGame(object):
     Describes a single chess game in PGN format.
     '''
 
-    TAG_ORDER = ['Event', 'Site', 'Date', 'Round', 'White', 'Black', 'Result',
+    TAG_ORDER = ['Event', 'Site', 'Date', 'Round', 'White', 'Black', 'Result', 'WhiteElo', 'BlackElo',
                  'Annotator', 'PlyCount', 'TimeControl', 'Time', 'Termination',
                  'Mode', 'FEN']
 
