@@ -25,7 +25,7 @@ setup(
     description = 'A python PGN parser',
     long_description=long_description,
     url = 'http://renatopp.com/pgnparser',
-    download_url = 'https://github.com/renatopp/pgnparser',
+    download_url = 'https://github.com/justindong2/pgnparser',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: MacOS X',
